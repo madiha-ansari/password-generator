@@ -24,7 +24,7 @@ if st.button("Generate Password"):
     st.write(f"Generated Password: `{password}`")
 
 st.write("----------------------------")
-st.write("Built with ❤️ by [Madiha Ansari](https://github.com/madiha-ansari)")
+st.write("Built with ❤️ by [Madiha Ansari](https://github.com/madiha-ansari/password-generator)")
 
 
 # pip install streamlit
